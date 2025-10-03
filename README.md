@@ -1,4 +1,5 @@
-# 🌸 Olá, mundo! Eu sou a Camila 🐣
+# 🌸 Olá, mundo! Eu sou a Camila! 🐣
+ようこそ！　カミラです。
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-camilatsv-blue?logo=linkedin)](https://www.linkedin.com/in/camilatsv)
 [![GitHub](https://img.shields.io/badge/GitHub-ohkaami-pink?logo=github)](https://github.com/ohkaami)
