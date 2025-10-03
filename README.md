@@ -1,5 +1,5 @@
 # 💫 About Me:
-⭐️ 28 years old<br>💻 I'm currently working on BPC (Intern)<br>📕I graduated in Languages. Japanese Language and Literature<br>
+⭐️ 30 years old<br>💻 
 
 
 # 💻 Tech Stack:
