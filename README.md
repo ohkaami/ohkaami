@@ -1,7 +1,7 @@
 # 🌸 Olá, mundo! Eu sou a Camila 🐣
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-camilatsv-blue?logo=linkedin)](https://www.linkedin.com/in/camilatsv)
-[![GitHub](https://img.shields.io/badge/GitHub-ohkaami-lightgrey?logo=github)](https://github.com/ohkaami)
+[![GitHub](https://img.shields.io/badge/GitHub-ohkaami-pink?logo=github)](https://github.com/ohkaami)
 [![Robot Framework](https://img.shields.io/badge/Robot_Framework-Testing-green?logo=python)](https://robotframework.org/)
 [![Cypress](https://img.shields.io/badge/Cypress-E2E_Testing-brightgreen?logo=cypress)](https://www.cypress.io/)
 
