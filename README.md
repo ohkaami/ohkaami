@@ -20,7 +20,6 @@
 ## 💼 O que você vai encontrar por aqui?
 
 - Projetos de automação de testes com foco em aprendizado e boas práticas  
-- Repositórios organizados com README explicativos (porque documentação é amor!)  
 - Experimentos com ferramentas novas e desafios de QA  
 - Um toque de fofura em cada commit 💕
 
