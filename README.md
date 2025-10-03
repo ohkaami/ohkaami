@@ -13,7 +13,7 @@
 📚 Formada em **Letras – Japonês**   
 🔍 Trabalho como **QA** 
 🤖 Estudando automação com **Robot Framework** e **Cypress**  
-🌱 Em constante evolução..aprendendo a cada dia.
+🌱 Em constante evolução..aprendendo a cada dia
 ---
 
 ## 💼 O que você vai encontrar por aqui?
