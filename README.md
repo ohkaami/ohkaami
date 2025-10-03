@@ -14,6 +14,7 @@
 🔍 Trabalho como **QA** 
 🤖 Estudando automação com **Robot Framework** e **Cypress**  
 🌱 Em constante evolução
+
 ---
 
 ## 💼 O que você vai encontrar por aqui?
