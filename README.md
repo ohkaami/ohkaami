@@ -7,7 +7,7 @@
 
 ---
 
-## 🧁 Sobre mim
+### 🧁 Sobre mim
 
 ✨ Tenho **30 anos** e sou apaixonada por Qualidade de Software  
 📚 Formada em **Letras – Japonês**   
