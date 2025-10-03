@@ -1,5 +1,48 @@
-# 💫 About Me:
-⭐️ 30 years old<br>💻 
+# 🌸 Olá, mundo! Eu sou a Camila 🐣
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camila-blue?logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-camiladev-lightgrey?logo=github)](https://github.com/seu-usuario)
+[![Robot Framework](https://img.shields.io/badge/Robot_Framework-Testing-green?logo=python)](https://robotframework.org/)
+[![Cypress](https://img.shields.io/badge/Cypress-E2E_Testing-brightgreen?logo=cypress)](https://www.cypress.io/)
+
+---
+
+## 🧁 Sobre mim
+
+✨ Tenho **30 anos** e sou apaixonada por Qualidade de Software  
+📚 Formada em **Letras – Japonês**   
+🔍 Trabalho como **QA** 
+🤖 Estudando automação com **Robot Framework** e **Cypress**  
+🌱 Em constante evolução, como um bonsai bem cuidado
+
+---
+
+## 💼 O que você vai encontrar por aqui?
+
+- Projetos de automação de testes com foco em aprendizado e boas práticas  
+- Repositórios organizados com README explicativos (porque documentação é amor!)  
+- Experimentos com ferramentas novas e desafios de QA  
+- Um toque de fofura em cada commit 💕
+
+---
+
+## 🎯 Objetivos atuais
+
+- 🧠 Aprimorar habilidades em automação de testes  
+- 🛠️ Contribuir com projetos open source voltados para qualidade  
+- 📖 Compartilhar conhecimento com a comunidade tech  
+- 💬 Aprender com outras pessoas incríveis como você!
+
+---
+
+## 📫 Vamos conversar?
+
+Se quiser trocar ideias sobre QA, automação, japonês ou memes de tecnologia, me chama!  
+Você pode me encontrar aqui no GitHub ou no [LinkedIn](https://www.linkedin.com/in/camilatsv) 💌
+
+---
+
+ありがとう！Obrigada por visitar meu cantinho 💖   
 
 
 # 💻 Tech Stack:
