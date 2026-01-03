@@ -9,38 +9,38 @@
 
 ## 🧁 Sobre mim
 
-✨ Tenho **30 anos** e sou apaixonada por Qualidade de Software  
-📚 Formada em **Letras – Japonês**   
-🔍 Trabalho como **QA** 
-🤖 Estudando automação com **Robot Framework** e **Cypress**  
-🌱 Em constante evolução
+Tenho **30 anos** e sou apaixonada por Qualidade de Software  
+Formada em **Letras – Japonês**   
+Trabalho como **QA** 
+Estudando automação com **Robot Framework** e **Cypress**  
+
 
 ---
 
-## 💼 O que você vai encontrar por aqui?
+##  O que você vai encontrar?
 
 - Projetos de automação de testes com foco em aprendizado e boas práticas  
 - Experimentos com ferramentas novas e desafios de QA
 
 ---
 
-## 🎯 Objetivos atuais
+##  Objetivos atuais
 
-- 🧠 Aprimorar habilidades em automação de testes  
-- 🛠️ Contribuir com projetos open source voltados para qualidade  
-- 📖 Compartilhar conhecimento com a comunidade tech  
-- 💬 Aprender com outras pessoas incríveis como você!
+-  Aprimorar habilidades em automação de testes  
+-  Contribuir com projetos open source voltados para qualidade  
+-  Compartilhar conhecimento com a comunidade tech  
+-  Aprender com outras pessoas incríveis como você!
 
 ---
 
-## 📫 Vamos conversar?
+##  Vamos conversar?
 
 Se quiser trocar ideias sobre QA, automação, japonês ou memes de tecnologia, me chama!  
 Você pode me encontrar aqui no GitHub ou no [LinkedIn](https://www.linkedin.com/in/camilatsv) 💌
 
 ---
 
-ありがとう！Obrigada por visitar meu cantinho 💖   
+ありがとう！  
 
 
 # 💻 Tech Stack:
