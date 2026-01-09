@@ -9,7 +9,7 @@
 
 ## 🧁 Sobre mim
 
-Tenho **30 anos** e sou apaixonada por Qualidade de Software  
+Tenho **31 anos** e sou apaixonada por Qualidade de Software  
 Formada em **Letras – Japonês**   
 Trabalho como **QA** 
 Estudando automação com **Robot Framework** e **Cypress**  
